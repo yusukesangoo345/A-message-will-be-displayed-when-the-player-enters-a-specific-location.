@@ -1,0 +1,1 @@
+# A-message-will-be-displayed-when-the-player-enters-a-specific-location.
